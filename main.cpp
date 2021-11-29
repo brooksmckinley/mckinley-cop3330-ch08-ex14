@@ -15,7 +15,7 @@ int main(void) {
     int num = 4;
     cout << "The value of num is " << num << endl;
     modifyValue(num);
-    cout << "The vlaue of num is still " << num << endl;
+    cout << "The value of num is still " << num << endl;
 
     return 0;
 }
